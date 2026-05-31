@@ -1,0 +1,31 @@
+//conversor de unidades
+
+programa: conversor de temperatura
+exibir "conversor de C para F"
+
+entrada
+exibir "digite a temperatura em celcius:"
+celsius = ler do usuario
+
+//usando pseudocodigo
+
+processamento
+fahrenheit = (celcius * 9/5) + 32
+
+saida
+exibir "temperatura" + fahrenheit + "F"
+
+funçao = bloco de algoritmo que realiza uma tarefa especifica
+    recebe entrada (parametros) e devolve saidas (retornos)
+
+//caso de conversao função
+
+func converterCparaF(celsius):
+    retornar (celsius * 9/5) + 32
+
+programa princial
+exibir "conversor de temperatura"
+exibir "digite a temperatura em celsius"
+c = ler do usuario
+f = converterCparaF(c)
+exibir "temperatura" + f + "F"

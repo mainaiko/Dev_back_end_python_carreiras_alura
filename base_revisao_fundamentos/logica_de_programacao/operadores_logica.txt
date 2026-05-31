@@ -1,0 +1,30 @@
+adição
+subtração
+multiplicação
+divisão
+sobra da divisão
+
+operadores aritmeticos
+algoritmo impar/par
+    divisao inteira: numero % 2
+    se resto = 0 -> numero par
+
+operadores relacionais
+igualdade (==)
+    idade = 16
+    idade == 18 -> falso
+maior que (>)
+    idade > 20 -> falso
+usualmente utilizados para teste de condições
+
+adicionando condições
+idade = 20
+tem_carteira = True
+    se idade >= 18 E tem_carteira
+    exibir "pode dirigir"
+
+invertendo valor logico
+usuario_logado = false
+    se Nao usuario_logado
+        exibir "usuario nao logado"
+

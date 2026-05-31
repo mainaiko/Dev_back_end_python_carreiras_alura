@@ -1,0 +1,124 @@
+conjunto ordenado de instruções utilizando algoritmo (ou varios algoritmos)
+pthon c# java go e php
+back end = comportamento e regras de negocio
+conjunto de simbolos, palavras-chave e regras de sintaxe
+
+ambiente de desenvolvimento (IDEs)
+edição de codigo
+depuração integrada
+gerenciamento de projetos
+integração com ferramentas
+
+qual a linguagem do computador?
+codigo binario ou linguagem de maquina
+sequencia de bits (0 e 1)
+
+linguagens de baixo nivel -> proximas ao hardware
+linguagens de alto nivel -> proximas aos humanos
+
+linguagem compilada = codigo fonte -> compilador -> codigo objeto -> sistema operacional -> hardware
+linguagens interpretadas = codigo fonte -> interpretador -> sistema operacional -> hardware
+
+terminal = interface de linha de comando (CLI)
+usar o terminal é uma das formas mais diretas de interagir com o computador. Com ele, é possivel navegar entre pastas, criar arquivos executar programas ou instalar pacotes
+
+calculo do ingresso
+
+1 passo
+listar requisitos
+    -idade < 18
+    -idade >= 60
+    -estudante
+
+2 passo
+modelar solução
+usar linguagem natural ou grafica "para cada participante, verificar idade e status de estudante, aplicar desconto"
+
+3 passo
+logica de programação
+    -sequencia de instruções
+    - variaveis
+    - condições
+    - loops (laços de repetição)
+    - operadores e expressoes logicas
+
+programas = logica + linguagem
+logica = como resolver um problema
+linguagem = como expressar essa solução de forma que o computador entenda
+
+4 passo
+construir, testar, refatorar
+aprimorando o codigo de forma continua
+    - ciclos iterativos de desenvolvimento
+debugging
+identificação e correção de bugs
+    - erros sao oportunidades de aprendizado continuo
+
+__________________________________________
+obs python:
+
+Sempre que o Python vê um sinal de =, ele faz o trabalho em duas etapas obrigatórias:
+
+1. Primeiro ele resolve TUDO que está à DIREITA
+O Python para tudo o que está fazendo e olha apenas para o lado direito do =. Ele entende que ali existe uma tarefa, uma conta matemática ou uma busca que precisa ser finalizada primeiro.
+
+Ele só avança quando consegue transformar toda aquela expressão gigante em um único resultado final.
+
+2. Depois ele joga o resultado para a ESQUERDA
+
+Somente depois de ter o resultado final da conta em "mãos", o Python olha para o lado esquerdo do = para descobrir onde ele deve guardar esse resultado. O lado esquerdo é apenas a "caixa" ou a "gaveta".
+
+__________________________________________
+
+ia:
+
+aprender errando sem utilizar a ia
+desenvolver capacidade de depuração
+
+o que sao llms
+
+llm significa large language model
+treinados com grandes columes de testo e codigo
+geram respostas provaveis a partir do contexto
+podem ajudar mas tambem podem (e vao) errar
+
+ter o dominio sobre a ia
+quem entende os fundamentos consegue perguntar melhor, revisar melhor e depender menos de respostas prontas
+
+ia pode gerar uma primeira versao de codigo
+descrever uma tarefa em linguagem natural
+gerar uma primeira versao do codigo
+pedir explicação do que foi criado
+entender antes de aceitar
+
+entender o codigo gerado:
+o codigo faz o que foi pedido 
+os nomes estao claros e ha casos nao tratados
+a solução esta simples o suficiente?
+
+executar o codigo - rode o que foi gerado e observe o resultado
+testar casos simple - confirme que o comportamente esperado funciona 
+testar casos de erro - tente entradas invalidas e veja como o codigo reage 
+corrigir com entendimento - ajuste o codigo sabendo o que e por que esta mudando 
+
+ia como apoio para investigar problemas:
+explica mensagens de erro 
+sugerir causas possiveis 
+organizar uma ordem de investigação 
+separar hipotese de incerteza 
+mas a investigaçãop precisa ser guiada pela pessoa 
+
+pedir pistas em vez de respostas prontas:
+perdir perguntas guia - peça a ia perguntar que te ajudem a pensar
+explicar antes de corrigir - peça que a ia explique o problema antes de mostrar a solução 
+comprar sua tentativa - mostre sua solução e peça uma comparação com a sugestao da ia
+corrigir com participação ativa - aplique as correções você mesmo, entendendo cada situação
+
+__________________________________________
+obs:
+realizar reunioes com as partes interessadas (stakeholders) para entender completamente a demanda, codumentar as regras de negocio como condições especificas de elegibilidade, e usar ferramentas como pseudocodigo ou fluxogramas para planejar a implementação tecnica antes da codificação
+
+organogramas
+
+implementar um algoritomo que monitore constantemente as mudanças nos dados dos funcionarios atraves de um sistema de eventos ou triggers no banco de dados, disparanto atualizações no organograma sempre que uma alteração relevante for detectada. o algoritmo deve identificar o tipo de mudança e aplicar as regras de negocio correspondentes
+

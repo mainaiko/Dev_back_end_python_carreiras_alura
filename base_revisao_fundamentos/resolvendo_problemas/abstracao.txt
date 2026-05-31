@@ -1,0 +1,18 @@
+abstração é ocultar detalhes para destacar apenas informações relevantes para o usuário.
+
+abstrair ocultar a complexidade e expor apenas o necessario(
+    foco no essencial
+    criação de representações simplificadas
+    facilita a organização e criação de grandes sistemas
+)
+
+notes: fazer um fluxograma para idealizar o projeto
+
+ex: criando uma aplicação (
+    botao "enviar" é usado em varias partes com diferentes objetivos
+
+    o botao é uma abstração a aparencia e o comportamento basico estão prontos
+)
+
+transformar partes complexas de um sistema em blocos de facil entendimento e utilização
+

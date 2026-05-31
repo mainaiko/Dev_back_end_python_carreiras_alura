@@ -1,0 +1,19 @@
+variavel = armazena conteudo que pode ser alterado ao longo do tempo
+
+exemplo -> numero
+fazendo cafe coado
+//adicionar po de cafe
+quantidadade = numero de xicaras * colher
+
+tipos de dados da variavel
+texto
+numero inteiro
+numero real
+booleano
+
+operações com variaveis
+x = 1
+y = 2
+z = x + y
+exibir (z)
+

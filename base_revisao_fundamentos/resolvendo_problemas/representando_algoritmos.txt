@@ -1,0 +1,64 @@
+linguagem natural -> estrutura logica
+
+estrutura de algoritmos
+    inicio
+    //preparar utensilios
+    pegar (filtro, suporte, garrafa)
+    colocar (filtro de papel, suporte)
+    posicionar (suporte, garrafa)
+
+    // adicionar po de cafe
+    quantidade = numero de chicaras * colher
+    adicionar (po de cafe, quantidade, filtro de papel)
+
+    //aquecer agua
+    colocar (agua, bule)
+    aquecer (bule, 90 graus)
+
+    //umedecer o po de cafe
+    derramar (agua, modo, vazao, filtro de papel)
+
+    //filtragem principal
+    derramar (agua, modo, vazao, filtro de papel)
+
+    //finalizacao
+    aguardar (agua,filtro de papel)
+    servir (cafe, garrafa)
+fim
+
+sequencia = base da estrutura
+passos sao executados um apos o outro sem desvios
+
+principais caracteristicas
+- interpretavel e executavel por maquina
+- uso de entradas e parametros
+- modularidade
+- controle de processo
+
+algoritmos na computação adotam linguagens especificas
+__________________________________________________________________________________________________________________
+decisao e repetição:
+
+"se estiver chovendo leve guardachuva se nao va sem ele"
+
+fluxograma = mapa do algoritmos
+
+condicionais = pergunta para decidir qual caminho seguir
+
+repetindo sequencias - "para cada item da lista de compras, va ate a prateleira e coloque no carrinho"
+
+ex de codigo:
+gerar (n secreto) entre 1 e 10
+enquanto palpite for diferente de (n secreto):
+    ler palpite
+    se palpite for maior que (n secreto)
+        exibir "tente um numero menor"
+    senao se palpite for menor que (n secreto)
+        exibir "tente um numero maior"
+    senao se palpite = (n secreto)
+        exibir "acertou"
+    fim
+
+
+
+

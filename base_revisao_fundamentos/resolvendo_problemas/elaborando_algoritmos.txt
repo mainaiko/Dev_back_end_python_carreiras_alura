@@ -1,0 +1,16 @@
+concepção de um passo a passo para resolver um problema complexo
+
+algoritmo = sequencia finita de instruções que resolve um problema
+    tem começo meio e fim
+    cada passo deve ser claro, objetivo e executavel
+    representavel de diferentes formas
+
+1 passo
+    decomposição: dividir o processo em etapas
+2 passo 
+    reconhecer padrões: identificar partes que seguem o mesmo modo
+3 passo
+    abstração: agrupar ações em etapas com significados
+4 passo
+    algoritmo: organizar instruções em ordem logica
+
