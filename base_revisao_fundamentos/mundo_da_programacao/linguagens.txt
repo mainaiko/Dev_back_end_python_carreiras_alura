@@ -55,6 +55,8 @@ identificação e correção de bugs
     - erros sao oportunidades de aprendizado continuo
 
 __________________________________________
+
+
 obs python:
 
 Sempre que o Python vê um sinal de =, ele faz o trabalho em duas etapas obrigatórias:
@@ -69,6 +71,7 @@ Ele só avança quando consegue transformar toda aquela expressão gigante em um
 Somente depois de ter o resultado final da conta em "mãos", o Python olha para o lado esquerdo do = para descobrir onde ele deve guardar esse resultado. O lado esquerdo é apenas a "caixa" ou a "gaveta".
 
 __________________________________________
+
 
 ia:
 
@@ -114,7 +117,16 @@ explicar antes de corrigir - peça que a ia explique o problema antes de mostrar
 comprar sua tentativa - mostre sua solução e peça uma comparação com a sugestao da ia
 corrigir com participação ativa - aplique as correções você mesmo, entendendo cada situação
 
+cuidados da ia
+pode gerar codigos que nao funciona
+pode inventar funções ou recursos 
+pode ignorar casos importantes 
+pode sugerir soluções inseguras 
+pode explicar algo de forma convincente, mas incorreta 
+
 __________________________________________
+
+
 obs:
 realizar reunioes com as partes interessadas (stakeholders) para entender completamente a demanda, codumentar as regras de negocio como condições especificas de elegibilidade, e usar ferramentas como pseudocodigo ou fluxogramas para planejar a implementação tecnica antes da codificação
 
