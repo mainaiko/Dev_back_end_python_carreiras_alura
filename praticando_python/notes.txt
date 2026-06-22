@@ -1,0 +1,10 @@
+problema geral = passo a passo do projeto
+passo 1 -> passo 2 -> passo 3 -> passo 4 -> passo 5 -> passo 6 e assim por diante
+
+se esta dificil de entender provavelmente esta errado
+apague e faça outro raciocinio
+
+o python segue uma ordem para os calculos e operações logicas, geralmente da direita para a esquerda caso escrito em uma unica linha
+
+fazer um gerenciador de tarefas com banco de dados e poo
+
