@@ -1,0 +1,29 @@
+= -> atribui valor
+== -> compara valor de igualdade
+
+usar o print para ir testando partes do codigo e verificar se o retorno esta sendo o esperado
+
+isolar comportamentos em uma sequencia de codigo para facilitar e seguir as boas praticas de programação
+
+o que seria os? import os
+esse import permite que o codigo converse e interaja diretamente com o sistema operacional do computador
+-> navegação e caminhos
+-> geerenciamento de pastas e arquivos
+-> listagem
+-> variaveis de ambiente
+
+if e match:
+O if nos proporciona uma maneira eficaz de tomar decisões simples ou complexas em nosso código, adaptando o comportamento do programa de acordo com as 
+circunstâncias determinadas. Ao usar match, podemos simplificar a lógica do código em situações que envolvem múltiplos padrões complexos. 
+Ela oferece uma estrutura mais legível, especialmente quando temos diversos casos a serem tratados.
+
+match                                                                                           if
+Lidar com condições complexas e múltiplos padrões de maneira mais intuitiva.	                Implementação clássica e amplamente conhecida.
+Sintaxe concisa melhora a legibilidade do código, especialmente em casos complexos.	            Amplamente suportada em todas as versões do Python.
+Permite desestruturação direta, evitando repetição excessiva de variáveis.	                    Estrutura simples e direta para lógica condicional básica.
+Adiciona expressividade ao código, especialmente em situações de correspondência de padrões.	Pode ser mais intuitiva para devs familiarizados com estruturas de controle convencionais.
+
+
+criar um app que ajude alunos a estudar baseado na tecnica de pomodoro?
+
+

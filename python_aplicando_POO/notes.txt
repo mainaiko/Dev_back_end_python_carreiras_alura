@@ -1,0 +1,4 @@
+Em programação orientada a objetos (OO), uma classe é um modelo para criar objetos. Um objeto é uma instância específica de uma classe, e as classes são 
+utilizadas para definir o comportamento e as propriedades compartilhadas por um grupo de objetos relacionados. 
+
+atributos = caracteristicas ou propriedades de um objeto

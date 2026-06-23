@@ -1,0 +1,44 @@
+'''
+Atribua o valor 'Italiana' ao atributo categoria da instância restaurante_praca da classe Restaurante.
+Acesse o valor do atributo nome da instância restaurante_praca da classe Restaurante.
+Verifique o valor inicial do atributo ativo para a instância restaurante_praca e exiba uma mensagem informando se o restaurante está ativo ou inativo.
+Acesse o valor do atributo de classe categoria diretamente da classe Restaurante e armazene em uma variável chamada categoria.
+Altere o valor do atributo nome para 'Bistrô'.
+Crie uma nova instância da classe Restaurante chamada restaurante_pizza com o nome 'Pizza Place' e categoria 'Fast Food'.
+Verifique se a categoria da instância restaurante_pizza é 'Fast Food'.
+Mude o estado da instância restaurante_pizza para ativo.
+Imprima no console o nome e a categoria da instância restaurante_praca.
+'''
+
+class Restaurante:
+    nome = ''
+    categoria = ''
+    ativo = False
+
+restaurante_praca = Restaurante()
+restaurante_praca.categoria = 'Italiana'
+restaurante_praca.nome = 'paozinho'
+
+print (restaurante_praca.nome)
+
+ativo_1 = restaurante_praca.ativo
+
+if ativo_1 == True:
+    print ('restaurante ativo')
+else:
+    print ('restaurante inativo')
+
+categoria = Restaurante.categoria
+
+restaurante_praca.nome = 'Bistrô'
+
+restaurante_pizza = Restaurante()
+restaurante_pizza.nome = 'Pizza Place'
+restaurante_pizza.categoria = 'Fast Food'
+
+print (restaurante_pizza.categoria == 'Fast Food')
+
+restaurante_pizza.ativo = True
+
+print (restaurante_praca.nome, restaurante_praca.categoria)
+

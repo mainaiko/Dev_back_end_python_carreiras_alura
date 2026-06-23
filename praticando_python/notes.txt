@@ -6,5 +6,5 @@ apague e faça outro raciocinio
 
 o python segue uma ordem para os calculos e operações logicas, geralmente da direita para a esquerda caso escrito em uma unica linha
 
-fazer um gerenciador de tarefas com banco de dados e poo
+fazer um gerenciador de tarefas com banco de dados e poo?
 
