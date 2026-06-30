@@ -1,0 +1,3 @@
+o cliente pediu uma nova regra de negocio
+ele quer q todos os restaurantes apareção com letra maiuscula no inicio
+
